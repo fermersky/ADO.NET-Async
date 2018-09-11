@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ado.net_project.Properties
+namespace async_ado_app.Properties
 {
 
 

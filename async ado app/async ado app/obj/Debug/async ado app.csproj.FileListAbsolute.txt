@@ -1,0 +1,9 @@
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\bin\Debug\async ado app.exe.config
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\bin\Debug\async ado app.exe
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\bin\Debug\async ado app.pdb
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async ado app.csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async_ado_app.Form1.resources
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async_ado_app.Properties.Resources.resources
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async ado app.csproj.GenerateResource.Cache
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async ado app.exe
+c:\users\pko\documents\visual studio 2017\Projects\async ado app\async ado app\obj\Debug\async ado app.pdb

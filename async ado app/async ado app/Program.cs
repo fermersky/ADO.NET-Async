@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ado.net_project
+namespace async_ado_app
 {
     static class Program
     {
